@@ -68,4 +68,8 @@ SEND_SERVER =
 
 ![Расстановка](/imgs/field.png)
 
+Меню выбора действия и характеристики персонажа.
+
+<img alt="Заставка" src="/imgs/demo/gameplay.PNG" width="50%" height="50%">
+
 
